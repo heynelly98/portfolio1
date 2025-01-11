@@ -1,0 +1,23 @@
+body {
+    font-family: tahoma;
+}
+
+header { 
+    background-color: #84B026;
+    padding: 30px;
+}
+
+.link-header {
+    font-size: 40px;
+    background-color: white;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    font-size: 30px;
+    margin-top: 20px;
+}
